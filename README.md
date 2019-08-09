@@ -22,6 +22,8 @@ Badges that I use a little too often.
   - [Research](#research)
     - [DOI](#doi)
 - [References](#references)
+- [Author](#author)
+- [Show Your Support](#show-your-support)
 
 ## Code Styles
 
@@ -102,3 +104,13 @@ Badges for digital object identifiers for research papers!
 - [Shields.io](https://shields.io/)
 - [repo-badges by @dwyl](https://github.com/dwyl/repo-badges)
 - [badges by @Naereen](https://github.com/Naereen/badges)
+
+# Author
+
+👤 **Wei Min Cher**
+
+- GitHub: [@flamanta](https://github.com/flamanta)
+
+# Show Your Support
+
+Please ⭐️ this repository if this project helped you!
