@@ -18,7 +18,7 @@ Badges that I use a little too often.
   - [Misc](#misc)
     - [Why?](#why)
   - [Python](#python-1)
-    - [Python 3.6](#python-36)
+    - [Python 3.6+](#python-36)
   - [Research](#research)
     - [DOI](#doi)
 - [References](#references)
@@ -83,13 +83,13 @@ Badges that I use a little too often.
 
 ## Python
 
-### Python 3.6
+### Python 3.6+
 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue)](https://shields.io/)
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue)](https://shields.io/)
 
 P.S. f-strings were first implemented in Python 3.6. They are awesome.
 
-`[![Python 3.6](https://img.shields.io/badge/python-3.6-blue)](https://shields.io/)`
+`[![Python 3.6](https://img.shields.io/badge/python-3.6+-blue)](https://shields.io/)`
 
 ## Research
 
