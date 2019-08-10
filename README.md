@@ -89,7 +89,7 @@ Badges that I use a little too often.
 
 P.S. f-strings were first implemented in Python 3.6. They are awesome.
 
-`[![Python 3.6](https://img.shields.io/badge/python-3.6+-blue)](https://shields.io/)`
+`[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue)](https://shields.io/)`
 
 ## Research
 
