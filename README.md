@@ -6,6 +6,7 @@ Badges that I use a little too often.
 
 - [Badges](#badges)
   - [Code Styles](#code-styles)
+    - [Black](#black)
     - [PEP8](#pep8)
     - [Prettier](#prettier)
   - [Licenses](#licenses)
@@ -21,11 +22,14 @@ Badges that I use a little too often.
     - [Python 3.6+](#python-36)
   - [Research](#research)
     - [DOI](#doi)
-- [References](#references)
-- [Author](#author)
-- [Show Your Support](#show-your-support)
 
 ## Code Styles
+
+### Black
+
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+`[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)`
 
 ### PEP8
 
@@ -99,18 +103,18 @@ P.S. f-strings were first implemented in Python 3.6. They are awesome.
 
 Badges for digital object identifiers for research papers!
 
-# References
+# References <!-- omit in toc -->
 
 - [Shields.io](https://shields.io/)
 - [repo-badges by @dwyl](https://github.com/dwyl/repo-badges)
 - [badges by @Naereen](https://github.com/Naereen/badges)
 
-# Author
+# Author <!-- omit in toc -->
 
 👤 **Wei Min Cher**
 
 - GitHub: [@flamanta](https://github.com/flamanta)
 
-# Show Your Support
+# Show Your Support <!-- omit in toc -->
 
 Please ⭐️ this repository if this project helped you!
