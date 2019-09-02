@@ -1,27 +1,26 @@
-# Badges
+# Badges <!-- omit in toc -->
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](https://lbesson.mit-license.org/)
 
 Badges that I use a little too often.
 
-- [Badges](#badges)
-  - [Code Styles](#code-styles)
-    - [Black](#black)
-    - [PEP8](#pep8)
-    - [Prettier](#prettier)
-  - [Licenses](#licenses)
-    - [GPLv3](#gplv3)
-    - [MIT License](#mit-license)
-  - [Made with](#made-with)
-    - [LaTeX](#latex)
-    - [Markdown](#markdown)
-    - [Python](#python)
-  - [Misc](#misc)
-    - [Why?](#why)
-  - [Python](#python-1)
-    - [Python 3.6+](#python-36)
-  - [Research](#research)
-    - [DOI](#doi)
+- [Code Styles](#code-styles)
+  - [Black](#black)
+  - [PEP8](#pep8)
+  - [Prettier](#prettier)
+- [Licenses](#licenses)
+  - [GPLv3](#gplv3)
+  - [MIT License](#mit-license)
+- [Made with](#made-with)
+  - [LaTeX](#latex)
+  - [Markdown](#markdown)
+  - [Python](#python)
+- [Misc](#misc)
+  - [Why?](#why)
+- [Python](#python-1)
+  - [Python 3.6+](#python-36)
+- [Research](#research)
+  - [DOI](#doi)
 
 ## Code Styles
 
