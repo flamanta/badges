@@ -88,11 +88,11 @@ Badges that I use a little too often.
 
 ### Python 3.6+
 
-[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue)](https://shields.io/)
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue)](https://www.python.org/downloads/release/python-360/)
 
 P.S. f-strings were first implemented in Python 3.6. They are awesome.
 
-`[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue)](https://shields.io/)`
+`[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue)](https://www.python.org/downloads/release/python-360/)`
 
 ## Research
 
